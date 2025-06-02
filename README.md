@@ -8,14 +8,14 @@ This is my macropad!
 1 I2C display
 
 # Schematic
-![image](https://github.com/user-attachments/assets/08cf4d0f-3001-450a-a10d-5c2512c4e0a8)
+![image](https://github.com/user-attachments/assets/0e1c1123-af7b-4ede-b9aa-4774fdebb661)
+
 
 # PCB
-![image](https://github.com/user-attachments/assets/e36697e3-bc7f-4eec-bc2b-f7475dd70627)
+![image](https://github.com/user-attachments/assets/5aebf503-520c-4bef-b8a0-9c72688a964f)
 
-![image](https://github.com/user-attachments/assets/a01826ce-48b3-4e79-9509-bf5369fcd5ff)
+![image](https://github.com/user-attachments/assets/552916fc-f532-43c3-ba8c-fb9a953714c2)
 
-![image](https://github.com/user-attachments/assets/d451dd18-301b-424e-9d06-b0bac2c2504e)
 
 # CAD
 ![image](https://github.com/user-attachments/assets/78ddee98-7369-46b0-9348-28337dbfd946)
