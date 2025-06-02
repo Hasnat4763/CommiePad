@@ -10,3 +10,8 @@
 
 ![image](https://github.com/user-attachments/assets/d451dd18-301b-424e-9d06-b0bac2c2504e)
 
+# CAD
+![image](https://github.com/user-attachments/assets/78ddee98-7369-46b0-9348-28337dbfd946)
+
+I used Fusion 360 for it. It was my 1st time making something 3D so it took a lot of time Without calculating the load sheddings(Thanks BD Govt for so many load sheddings ;-) ).
+It fits with 4 m3 screws and bolts
