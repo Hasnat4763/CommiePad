@@ -32,7 +32,11 @@ I used KMK firmware but I havent finalized it yet!
 # BOM:
 
 1 SEEED XIAO RP2040
+
 6 Cherry MX switch
+
 1 EC11 Rotary encoder
+
 6 SK6812 MINI-E LEDs
+
 1 0.91 inch OLED display
