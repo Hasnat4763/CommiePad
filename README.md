@@ -5,7 +5,7 @@ This is my macropad!
 6 neopixel LEDs!
 6 Cherry MX keys
 1 Rotary Encoder with switch
-2 I2C displays
+1 I2C display
 
 # Schematic
 ![image](https://github.com/user-attachments/assets/08cf4d0f-3001-450a-a10d-5c2512c4e0a8)
@@ -26,3 +26,11 @@ It fits with 4 m3 screws and bolts
 
 # Firmware:
 I used KMK firmware but I havent finalized it yet!
+
+# BOM:
+
+1 SEEED XIAO RP2040
+6 Cherry MX switch
+1 EC11 Rotary encoder
+6 SK6812 MINI-E LEDs
+1 0.91 inch OLED display
