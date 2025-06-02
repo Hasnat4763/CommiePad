@@ -18,8 +18,10 @@ This is my macropad!
 
 
 # CAD
-![image](https://github.com/user-attachments/assets/78ddee98-7369-46b0-9348-28337dbfd946)
-![image](https://github.com/user-attachments/assets/53765e54-e9cb-485a-935c-01684c0b6f84)
+![image](https://github.com/user-attachments/assets/1bd45946-c29f-4255-bbce-726d7af6d8d1)
+
+![image](https://github.com/user-attachments/assets/b664787f-ced9-4959-abad-16d0f7cb9510)
+
 
 I used Fusion 360 for it. It was my 1st time making something 3D so it took a lot of time Without calculating the load sheddings(Thanks BD Govt for so many load sheddings ;-) ).
 It fits with 4 m3 screws and bolts
